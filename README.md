@@ -1,3 +1,3 @@
 # mosaic
-# Build Instructions:
+Build Instructions:
 javac *.java
